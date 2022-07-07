@@ -30,7 +30,7 @@
 
 ### Built With
 
-- [Create React App](https://github.com/facebook/create-react-app).
+- [Create React App](https://github.com/facebook/create-react-app)
 - [React](https://reactjs.org/)
 - [Interweave](https://interweave.dev/)
 - [Date-fns](https://date-fns.org/)
