@@ -8,8 +8,8 @@
 
 - [Overview](#overview)
   - [Built With](#built-with)
+  - [Links](#links)
 - [Features](#features)
-- [How to use](#how-to-use)
 - [Useful Resources](#useful-resources)
 
 ## Overview
@@ -35,6 +35,10 @@
 - [Interweave](https://interweave.dev/)
 - [Date-fns](https://date-fns.org/)
 - [themuse](https://www.themuse.com/developers/api/v2)
+
+### Links 
+
+- [Github Pages](https://jdegand.github.io/muse-jobs-app)
 
 ## Features
 
