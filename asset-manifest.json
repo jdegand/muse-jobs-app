@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/muse-jobs-app/static/css/main.89f521f3.css",
+    "main.js": "/muse-jobs-app/static/js/main.5d1cc3cd.js",
+    "static/js/787.61f517aa.chunk.js": "/muse-jobs-app/static/js/787.61f517aa.chunk.js",
+    "static/media/backgroundImg.png": "/muse-jobs-app/static/media/backgroundImg.c84275682c4b641c6db4.png",
+    "index.html": "/muse-jobs-app/index.html",
+    "static/media/briefcase-outline.svg": "/muse-jobs-app/static/media/briefcase-outline.4fb714bc91710d0ee9fe.svg",
+    "main.89f521f3.css.map": "/muse-jobs-app/static/css/main.89f521f3.css.map",
+    "main.5d1cc3cd.js.map": "/muse-jobs-app/static/js/main.5d1cc3cd.js.map",
+    "787.61f517aa.chunk.js.map": "/muse-jobs-app/static/js/787.61f517aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89f521f3.css",
+    "static/js/main.5d1cc3cd.js"
+  ]
+}
