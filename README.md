@@ -1,7 +1,7 @@
 <h1 align="center">Muse Jobs App</h1>
 
 <div align="center">
-   Solution for a challenge from  <a href="https://devchallenges.io/challenges/TtUjDt19eIHxNQ4n5jps" target="_blank">Devchallenges.io</a>.
+   Solution for a challenge from  <a href="https://legacy.devchallenges.io/challenges/TtUjDt19eIHxNQ4n5jps" target="_blank">Devchallenges.io</a>.
 </div>
 
 ## Table of Contents
@@ -42,7 +42,7 @@
 
 ## Features
 
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/TtUjDt19eIHxNQ4n5jps) was to build an application to complete the given user stories.
+This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://legacy.devchallenges.io/challenges/TtUjDt19eIHxNQ4n5jps) was to build an application to complete the given user stories.
 
 ## Thoughts
 
