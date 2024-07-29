@@ -18,7 +18,6 @@ fieldset {
 }
 
 .muse-color {
- /* color: #53b2d0; */
   color: #4b90a6;
 }
 
@@ -121,7 +120,6 @@ svg {
 
 .buttons-container {
   display: flex;
-  /* justify-content: flex-end; */
   align-items: center;
   position: absolute;
   right: 10%;
